@@ -2,7 +2,7 @@
 
 This is a steam emulator that emulates steam online features on a LAN. It works on both Linux and Windows. For a readme on how to use it see: [The Release Readme](Readme_release.txt)
 
-You replace the steam api .dll or .so with mine (for complete steps see the [Release Readme](Readme_release.txt)) and then you can put steam in the trash and play your games either in single player on on LAN without steam (Assuming the games have no DRM and use Steam for online).
+You replace the steam api .dll or .so with mine (for complete steps see the [Release Readme](Readme_release.txt)) and then you can put steam in the trash and play your games either in single player or on LAN without steam (Assuming the games have no DRM and use Steam for online).
 
 If you are a game developper and made the mistake of depending too much on the steam api and want to release of version of your game without it and don't want to rewrite your game, this is for you. It is licenced LGPLv3+ so the only source code you need to publish is the source code of this emulator (and only if you make modification to it).
 
